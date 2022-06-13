@@ -1,6 +1,4 @@
-# password_generator
-
-# Professional Portfolio
+#P Password Generator
 ## Purpose
 A website that shows the professional portfolio which is responsive in anny screen sizes.
 
