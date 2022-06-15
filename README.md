@@ -19,4 +19,5 @@ Made with ❤️ by Sumit Ojha
 ## Screenshot
 
 ![](Images/Screenshot-1.jpg)
-![](Images/Screenshot-1.jpg)
+![](Images/Screenshot-2.jpg)
+![](Images/Screenshot-3.jpg)
